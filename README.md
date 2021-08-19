@@ -6,7 +6,7 @@ Simple Ben10 card App using Flutter.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/playatanu/assets/blob/main/ben10.gif)
 
   
 ## Features
@@ -19,9 +19,9 @@ Simple Ben10 card App using Flutter.
   
 ## Tech Stack
 
-**Client:** Flutter
+**Client:** React, Redux, TailwindCSS
 
-**Server:** 
+**Server:** Node, Express
 
   
 ## Download
@@ -56,4 +56,3 @@ If you have any feedback, please reach out to us at playatanu@gmail.com
 ## Support
 
 For support, email playatanu@gmail.com or join our Slack channel.
-
